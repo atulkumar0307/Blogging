@@ -1,7 +1,7 @@
 # ScreenShots:-
 
 ### Home page
-![Home-Blog-session](https://github.com/user-attachments/assets/558807bc-7fc7-4893-a13c-8294c00db9c3)
+![Home](https://github.com/user-attachments/assets/4af39c0a-b8fb-48f5-8823-d124ce962c98)
 
 ### Home- Blog
 ![Home-Blog-session](https://github.com/user-attachments/assets/9ff53014-6416-411c-9dd5-f734d351b381)
