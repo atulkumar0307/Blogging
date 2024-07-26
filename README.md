@@ -1,3 +1,20 @@
+# Blogging Site
+
+This is a blog website developed using HTML, CSS, JavaScript, Node.js with Express.js, and Firebase. The project allows users to create, manage, and interact with blog content in a secure and efficient manner.
+
+## Features
+
+- **User Authentication**: Secure user login and signup functionality using Firebase Authentication, ensuring that only authorized users can manage blog content.
+- **Blog Management**: Allows users to add, update, and delete blog posts. Users can manage their own posts and make changes as needed.
+- **Dynamic Content**: The website dynamically displays blog posts, providing a seamless experience for users to browse and interact with the content.
+- **Responsive Design**: Implemented a responsive design to ensure a smooth user experience across various devices and screen sizes.
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: Firebase
+
 # ScreenShots:-
 
 ### Home page
