@@ -13,12 +13,6 @@ const firebaseConfig = {
     // storageBucket: process.env.STORAGE_BUCKET,
     // messagingSenderId: process.env.MESSAGING_SENDER_ID,
     // appId: process.env.APP_ID,
-    apiKey: "AIzaSyC9OFvAwAtmVbfXZ9Z2D1Qc1-EklaO_jMY",
-    authDomain: "blogging-website-c436a.firebaseapp.com",
-    projectId: "blogging-website-c436a",
-    storageBucket: "blogging-website-c436a.appspot.com",
-    messagingSenderId: "228610224240",
-    appId: "1:228610224240:web:2205e740d3c42a06ba84b5"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
